@@ -1,0 +1,5 @@
+#include<stdio.h>
+void main(){
+int a,b;
+print("%a * %b = %d",a,b,a*b);
+}
